@@ -27,3 +27,4 @@ streamlit run app.py
 ```
 
 ###### From here, we begin complete the module
+<img src="Image/pychain.png" alt="Logo" width="600" height="300">
